@@ -1,7 +1,8 @@
 ---
 title:  "Example"
+author: "John Oliphant"
+description:  "Looking for a little sample example fun?"
 date:   2014-09-09 22:37:00
-categories: example
 ---
 
 **Basic**
