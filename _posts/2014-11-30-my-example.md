@@ -22,4 +22,6 @@ Neque porro *quisquam* est, qui **dolorem** ipsum, quia ***dolor*** sit, amet, [
 
 **Code**
 
-```# this is a small line of code```
+```this is a small line of code using ticks```
+
+<code>this is a small line of code using html</code>
