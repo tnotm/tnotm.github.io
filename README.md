@@ -1,14 +1,37 @@
-Contrast
-========
+indieweb-dbyll
+=====
 
-Lightweight Jekyll theme
+IndieWeb version of [dbyll](https://github.com/dbtek/dbyll) theme for jekyll.  
+Demo: *Coming Soon*
 
- - mobile first
- - syntax highlighting
- - automatic [disqus](https://disqus.com/) / [isso](http://posativ.org/isso/) integration
+### Original Features \( [dbyll](https://github.com/dbtek/dbyll) \)
+- Responsive layout.
+- Supports tags and categories.
+- Social profile and bio of author.
+- Bootstrap based.
+- Glyphicon and Font-Awesome Icons.
+- Pagination.
+- Syntax highlighting with pygments.
+- Disqus comments.
 
-Released under *public domain*.
+### Upcoming Features
+- [IndieAuth](https://indieauth.com/) pre-configured
+- Added social networks
+- Site search
+- h-entries
+- h-card
+- ... and more!
 
-**Screenshot:**
+Goal here is to allow Jekyll users easily run this theme and be part of the [IndieWeb](http://indiewebcamp.com/).  
 
-![screenshot](https://cloud.githubusercontent.com/assets/4943215/4261110/7f86f7dc-3b5e-11e4-8250-429e0248570f.png)
+### Download
+* [Download indieweb-dbyll](https://github.com/tnotm/indieweb-dbyll/archive/master.zip)
+
+### Screenshots
+
+* Pending
+
+### License
+- [MIT](http://opensource.org/licenses/MIT)
+
+

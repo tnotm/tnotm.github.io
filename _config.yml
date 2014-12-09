@@ -1,21 +1,35 @@
-# Site settings
-title: tnotm
-email: john.thomas.oliphant@gmail.com
-description: "John Oliphant"
-baseurl: "/"
-url: "http://tnotm.github.io"
-twitter_username: tnotm
-github_username: tnotm
-disqus_username: tnotm
-isso_domain: comments.mysite.org
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Build settings
-markdown: redcarpet
-permalink: /:title/
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
 
 defaults:
   -
     scope:
-      path: ""
+      path: "" # empty string for all files
     values:
-      layout: "default"
+      title: tnotm
+
+description: John Oliphant
+disqus: tnotm
+author:
+  name: John Oliphant
+  email: 
+  github: tnotm
+  google_plus: +JohnOliphant
+  twitter: tnotm
+  facebook: 
+  pinterest: 
+  linkedin: in/JohnOliphant
+  bio: John Oliphant
+  email_md5: 445495948ce984e411ee7de24c409f21
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH: /
