@@ -19,7 +19,8 @@ tagline:
     {{ post.date | date: "%Y" }}
   </span>
 
-{% if post.categories contains "notes" %}	
+{% if post.categories contains "notes" %}
+	<a href="{{ site.BASE_PATH }}{{ post.url }}"><i class="fa fa-pencil-square fa-lg"></i></a>
 {% else %}
   <h2>
      <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
