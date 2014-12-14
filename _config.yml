@@ -18,14 +18,14 @@ description: John Oliphant
 disqus: tnotm
 author:
   name: John Oliphant
-  photo: tnotm_avatar
+  photo: tnotm_avatar #base name of image, see readme
   email: 
-  github: tnotm
-  google_plus: +JohnOliphant
-  twitter: tnotm
+  github: https://github.com/tnotm  #full profile URLs, see readme
+  google_plus: https://plus.google.com/+JohnOliphant
+  twitter: https://twitter.com/tnotm
   facebook: 
   pinterest: 
-  linkedin: in/JohnOliphant
+  linkedin: https://www.linkedin.com/in/johnoliphant
   bio: John Oliphant
   email_md5: 445495948ce984e411ee7de24c409f21
 
