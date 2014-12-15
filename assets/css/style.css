@@ -87,7 +87,7 @@ article .share .gplus:hover {
 }
 
 .note-header{
-	margin-top: 40px;
+	margin-top: 53px;
 	padding: 0 5% 0;
 	color: #e74c3c;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
@@ -190,3 +190,9 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+#search_bar{
+    position: fixed;
+    top: 45px;
+    right: 45px;
+    z-index: 2000;
+}
