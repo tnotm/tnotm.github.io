@@ -1,5 +1,6 @@
 ---
-categories: []
+categories:
+  - post
 tags: []
 comment: 
 info: 
@@ -7,11 +8,12 @@ date: '2015-8-8'
 type: post
 layout: post
 published: false
-sha: 
+sha: ce3756238c1b3fe91ff41e223f89642f7e8e45f1
 slug: every-two-weeks
 title: 'Every Two Weeks'
 
 ---
+
 Do you change passions every week or two?
 
 I literally find something interesting to get into every two weeks.  I get frustrated, sometimes angry, that I don't have enough time to devote to it.  What is really funny about this, is that if I do get enough time, and dig in all the way, days later I drop it.
