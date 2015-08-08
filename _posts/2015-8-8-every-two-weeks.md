@@ -7,8 +7,8 @@ info:
 date: '2015-8-8'
 type: post
 layout: post
-published: false
-sha: ce3756238c1b3fe91ff41e223f89642f7e8e45f1
+published: true
+sha: f894d779aa89424fe9ac3bbaa60ea18ae19b2aec
 slug: every-two-weeks
 title: 'Every Two Weeks'
 
