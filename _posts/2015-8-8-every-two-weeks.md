@@ -8,7 +8,7 @@ date: '2015-8-8'
 type: post
 layout: post
 published: true
-sha: f894d779aa89424fe9ac3bbaa60ea18ae19b2aec
+sha: b4117217283389c2668363636bf8c2051ba432c9
 slug: every-two-weeks
 title: 'Every Two Weeks'
 
@@ -39,6 +39,7 @@ So what things do I get pulled into?  What 'things' do I get sucked into?
 * Chrome
 * Android
 * Speaking
+* Ayn Rand
 
 This is just the short list.  I would hope to blog or podcast about each subject at length, but where is the time?  The benefit of this process is that I know an awful lot about lots of things.  The downside is I never become an expert.
 
