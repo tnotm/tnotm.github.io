@@ -1,16 +1,16 @@
 ---
 categories:
   - post
-tags: []
 comment: 
-info: 
 date: '2015-8-8'
-type: post
+info: 
 layout: post
 published: true
-sha: 429add932c2d453bd9a109244e69e63e82db883c
+sha: 3afa45138a79935864669c333c5ed7653db2e1b3
 slug: every-two-weeks
+tags: []
 title: 'Every Two Weeks'
+type: post
 
 ---
 
@@ -53,4 +53,4 @@ A jack of all trades and a master of none.
 [f]: https://indieauth.com/ "IndieAuth"
 [g]: http://www.aynrand.org/ "Ayn Rand"
 [h]: https://www.toastmasters.org/ "Toastmasters"
-[i]:
+[i]: http://sample.com
