@@ -6,13 +6,14 @@ date: '2015-8-8'
 info: 
 layout: post
 published: true
-sha: bcd5ef845c3f9eede39bc08831fe459db3dc446f
+sha: c99201ba7b5be6b3be383d0f34e0ff84606da2cf
 slug: every-two-weeks
 tags: []
 title: 'Every Two Weeks'
 type: post
 
 ---
+
 
 
 Do you change passions every week or two?
@@ -42,6 +43,7 @@ So what things do I get pulled into?  What 'things' do I get sucked into?
 * [Speaking][h]
 * [Ayn Rand][g]
 * [SyncThing][i]
+* [Mycroft Home AI][j]
 
 This is just the short list.  I would hope to blog or podcast about each subject at length, but where is the time?  The benefit of this process is that I know an awful lot about lots of things.  The downside is I never become an expert.
 
@@ -58,3 +60,4 @@ A jack of all trades and a master of none.
 [g]: http://www.aynrand.org/ "Ayn Rand"
 [h]: https://www.toastmasters.org/ "Toastmasters"
 [i]: https://syncthing.net/ "SyncThing"
+[j]: https://www.kickstarter.com/projects/aiforeveryone/mycroft-an-open-source-artificial-intelligence-for/ "Mycroft"
