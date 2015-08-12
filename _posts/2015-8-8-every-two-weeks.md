@@ -6,13 +6,14 @@ date: '2015-8-8'
 info: 
 layout: post
 published: true
-sha: 3afa45138a79935864669c333c5ed7653db2e1b3
+sha: bcd5ef845c3f9eede39bc08831fe459db3dc446f
 slug: every-two-weeks
 tags: []
 title: 'Every Two Weeks'
 type: post
 
 ---
+
 
 Do you change passions every week or two?
 
@@ -40,10 +41,13 @@ So what things do I get pulled into?  What 'things' do I get sucked into?
 * Android
 * [Speaking][h]
 * [Ayn Rand][g]
+* [SyncThing][i]
 
 This is just the short list.  I would hope to blog or podcast about each subject at length, but where is the time?  The benefit of this process is that I know an awful lot about lots of things.  The downside is I never become an expert.
 
 A jack of all trades and a master of none.
+
+**note:**  This is my master list of stuff I get into.  It will be updated as new things pop up.
 
 [a]: http://ipfs.io/ "IPFS"
 [b]: http://longnow.org/ "Long Now Foundation"
@@ -53,4 +57,4 @@ A jack of all trades and a master of none.
 [f]: https://indieauth.com/ "IndieAuth"
 [g]: http://www.aynrand.org/ "Ayn Rand"
 [h]: https://www.toastmasters.org/ "Toastmasters"
-[i]: http://sample.com
+[i]: https://syncthing.net/ "SyncThing"
