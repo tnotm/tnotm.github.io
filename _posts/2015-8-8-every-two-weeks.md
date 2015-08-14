@@ -6,13 +6,14 @@ date: '2015-8-8'
 info: 
 layout: post
 published: true
-sha: c99201ba7b5be6b3be383d0f34e0ff84606da2cf
+sha: 16402162423bcae4c07ae66744dbb475e03199d2
 slug: every-two-weeks
 tags: []
 title: 'Every Two Weeks'
 type: post
 
 ---
+
 
 
 
@@ -33,6 +34,7 @@ So what things do I get pulled into?  What 'things' do I get sucked into?
 * Podcasting
 * [IPFS][a]
 * [Dokuwiki][d]
+* Chrome OS/Chromebooks
 * Linux (Distros/DEs)
 * Gaming
 * Open Source
