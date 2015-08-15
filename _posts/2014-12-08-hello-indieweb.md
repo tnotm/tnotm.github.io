@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Hello IndieWeb!
-categories: [blog]
+categories: [post]
 tags: [jekyll, indieweb, dbyll, indieweb-dbyll]
 fullview: false
+published: true
 ---
 
 So I need to be eating my own dog food right?  Yeah I didn't get it either, but if you wish to understand it keep reading.
