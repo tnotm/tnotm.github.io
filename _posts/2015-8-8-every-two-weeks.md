@@ -39,7 +39,8 @@ So what things do I get pulled into?  What 'things' do I get sucked into?
 * Gaming
 * Open Source
 * Programming
-* Jekyll
+* [Jekyll][k]
+* [Markdown][l]
 * Chrome
 * Android
 * [Speaking][h]
@@ -62,4 +63,6 @@ A jack of all trades and a master of none.
 [g]: http://www.aynrand.org/ "Ayn Rand"
 [h]: https://www.toastmasters.org/ "Toastmasters"
 [i]: https://syncthing.net/ "SyncThing"
-[j]: https://www.kickstarter.com/projects/aiforeveryone/mycroft-an-open-source-artificial-intelligence-for/ "Mycroft"
+[j]: https://www.kickstarter.com/projects/aiforeveryone/mycroft-an-open-source-artificial-intelligence-for/ "Mycroft - Home AI"
+[k]:http://jekyllrb.com/ "Jekyll - Markdown based blogging platform"
+[l]:http://daringfireball.net/projects/markdown/ "Markdown - a plain text formatting syntax"
